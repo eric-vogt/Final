@@ -3,9 +3,9 @@ public class Dog
 	int age;
 	String name;
 	
-	Dog(int a, String s)
+	Dog(int dogAge, String dogName)
 	{
-		this.age = a;
-		this.name = s;
+		this.age = dogAge;
+		this.name = dogName;
 	}
 }
