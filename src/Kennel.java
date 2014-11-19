@@ -7,7 +7,7 @@ public class Kennel
 		JFrame frame = new JFrame ("Left Right");
 	      frame.setDefaultCloseOperation (JFrame.EXIT_ON_CLOSE);
 
-	      frame.getContentPane().add(new KennelPanel());
+	      //frame.getContentPane().add(new KennelPanel());
 
 	      frame.pack();
 	      frame.setVisible(true);
